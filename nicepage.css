@@ -42224,8 +42224,8 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 26px;
   min-height: 16px;
-  width: 134px;
-  min-width: 94px;
+  width: 170px;
+  min-width: 120px;
   margin: -36px 0 21px auto;
 }
 
@@ -42243,6 +42243,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-icon-4 {
   height: 0;
+}
+
+.u-header .u-icon-5 {
+  height: 26px;
 }
 
 
